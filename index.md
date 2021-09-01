@@ -1,10 +1,7 @@
 
-#Sai Coumar's First CS193 Homework
-Things I like about cs193
--The lecturers ;)
--The stuff the lecturers say
--The lecturers
-## Welcome to GitHub Pages
+
+
+## Sai Coumar's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,6 +20,10 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Things I like about cs193
+- The lecturers ;)
+- The stuff the lecturers say
+- The lecturers
 
 1. Numbered
 2. List
